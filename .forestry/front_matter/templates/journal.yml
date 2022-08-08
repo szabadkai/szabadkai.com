@@ -29,11 +29,10 @@ fields:
           source:
               type: simple
               section: authors
-              file: data/authors/levente-szabadkai.json
+              file: data/authors/nichlas-w-andersen.json
           required: true
           options:
-              - Nichlas W. Andersen
+              - Levente Szabadkai
       label: Author
-      default: Nichlas W. Andersen
-pages:
+      default: Levente Szabadkai
     - journal/hello-world.md
