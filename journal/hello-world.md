@@ -1,7 +1,6 @@
 ---
 date: 2022-08-08
-author: Nichlas W. Andersen
+author: Levente Szabadkai
 title: hello world
 excerpt: yoooo
-
 ---
