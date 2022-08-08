@@ -2,7 +2,7 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-    siteName: "Portfolio",
+    siteName: "Levente's Blog",
     siteUrl: `https://www.szabadkai.com`,
     host: "0.0.0.0",
     titleTemplate: "%s - NWA",
