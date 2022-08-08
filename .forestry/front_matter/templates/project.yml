@@ -36,5 +36,6 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/hollow-dice.md
 - projects/ios-concept.md
 - projects/magnetic-portafilter-dosing-funnel.md
