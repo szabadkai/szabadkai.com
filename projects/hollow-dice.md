@@ -24,4 +24,4 @@ It turned out to be harder to get then I anticipated. On the uniz fb group no on
 
 [https://cults3d.com/en/3d-model/game/d6-dice-hollow](https://cults3d.com/en/3d-model/game/d6-dice-hollow "https://cults3d.com/en/3d-model/game/d6-dice-hollow")
 
-[https://cults3d.com/en/3d-model/game/laced-d20-dice-presupported](https://cults3d.com/en/3d-model/game/laced-d20-dice-presupported "https://cults3d.com/en/3d-model/game/laced-d20-dice-presupported")
+[https://cults3d.com/en/3d-model/game/hollow-d12-presupported-8mm-mini-dice-for-killteam-eob](https://cults3d.com/en/3d-model/game/hollow-d12-presupported-8mm-mini-dice-for-killteam-eob "https://cults3d.com/en/3d-model/game/hollow-d12-presupported-8mm-mini-dice-for-killteam-eob")
